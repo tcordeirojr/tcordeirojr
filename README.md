@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces modernas, funcionais e acessíveis. Gosto de transformar ideias em experiências digitais e estou sempre em busca de novos desafios para evoluir como profissional.
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e freelas.
+- 🔭 Atualmente estou trabalhando como desenvolvedor Web na Agência Virtú.
 - 🌱 Estudando React, TypeScript e boas práticas de UI/UX.
 - 💡 Curioso por tecnologias web, design responsivo e performance.
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript, React, Git...
